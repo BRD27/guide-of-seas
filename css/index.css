@@ -1,0 +1,8 @@
+
+#header-search-2 .bg {
+    background-image: url('../images/bg-pattern-1-primary.png') fixed;
+    background-repeat: Repeat;
+    background-position: center;
+    background-size: 200px 200px;
+    opacity:0.2;
+}
