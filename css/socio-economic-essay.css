@@ -8,6 +8,19 @@
 
 
 
-#text-2col--0 .bg-wrap {
+#text-2col--1 .bg-wrap {
 	background: #465d62;
 }
+
+
+#text-2col--3 .bg-wrap {
+	background: #465d62;
+}
+
+#text-2col--2 .bg-wrap {}
+
+#text-2col--5 .bg-wrap {
+	background: #465d62;
+}
+
+#text-2col--4 .bg-wrap {}
