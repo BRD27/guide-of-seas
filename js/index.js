@@ -1,8 +1,11 @@
 "use strict";
-window.addEventListener('load', function() {
-	AOS.init({
-		easing: 'ease-in-out-sine'
-	});
+
+ $(window).on('load', function () {
+	//------------------------------------------------------------------------
+	//						PRELOADER SCRIPT
+	//------------------------------------------------------------------------
+	$("#preloader").delay(400).fadeOut("slow");
+	$("#preloader .clock").fadeOut();
 });
 
 window.addEventListener('load', function() {
