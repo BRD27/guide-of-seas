@@ -1,8 +1,7 @@
 /* default */
 .dark .light , .light  , .dark .light  , .light  {
 	font-family: 'OpenSans';
-	font-size: 14px;
-	line-height: 1.5;
+	font-size: 16px;
 	color: #555;
 }
 .light .dark , .dark  , .light .dark  , .dark  {
@@ -35,28 +34,27 @@ section.dark, footer.dark, header.dark {
 }
 .dark h1.light, .light h1, .dark .light h1, h1.light {
 	font-family: 'Montserrat';
-	font-size: 100px;
+	font-size: 72px;
 	font-weight: 200;
 	font-style: normal;
 	color: #222;
 }
 .light h1.dark, .dark h1, .light .dark h1, h1.dark {
+	font-size: 72px;
 	font-family: 'Montserrat';
-	font-size: 100px;
 	font-weight: 200;
 	font-style: normal;
 	color: #fff;
 }
 .dark h2.light, .light h2, .dark .light h2, h2.light {
 	font-family: 'Montserrat';
-	font-size: 50px;
 	font-weight: 300;
 	font-style: normal;
 	color: #222;
 }
 .light h2.dark, .dark h2, .light .dark h2, h2.dark {
 	font-family: 'Montserrat';
-	font-size: 50px;
+	font-size: 24px;
 	font-weight: 300;
 	font-style: normal;
 	color: #fff;
@@ -387,6 +385,4 @@ section.dark, footer.dark, header.dark {
 	.light h3.dark, .dark h3, .light .dark h3, h3.dark {
 	font-size: 25px;
 	}
-}
-@media all and (min-width: 1280px) {
 }

@@ -1,13 +1,7 @@
-
-#header-search-2 .bg {
-    background-image: url('../images/logo-header.jpg');
-    background-repeat: No-repeat;
+#header-text-2 .bg {
+    background-image: url('../images/aerial-shot-of-blue-water-3894157.jpg');
+    background-repeat: no-repeat;
     background-position: center top;
     background-size: cover;
-    opacity: 1;
+    opacity: 0.47;
 }
-
-#text-1col .bg-wrap {
-	background: #465d62;
-}
-#contact-map .bg-wrap {}
