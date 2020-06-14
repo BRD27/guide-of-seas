@@ -368,6 +368,22 @@ section.dark, footer.dark, header.dark {
 	font-size: 40px;
 	}
 }
+
+@media all and (max-width: 768px) {
+	.dark h1.light, .light h1, .dark .light h1, h1.light {
+	font-size: 40px;
+	}
+	.light h1.dark, .dark h1, .light .dark h1, h1.dark {
+	font-size: 40px;
+	}
+	.dark h2.light, .light h2, .dark .light h2, h2.light {
+	font-size: 30px;
+	}
+	.light h2.dark, .dark h2, .light .dark h2, h2.dark {
+	font-size: 30px;
+	}
+}
+
 @media all and (max-width: 576px) {
 	.dark h1.light, .light h1, .dark .light h1, h1.light {
 	font-size: 40px;
