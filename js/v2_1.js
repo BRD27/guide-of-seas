@@ -1,4 +1,4 @@
-var g_volume = 80;
+var g_volume = 20;
 var g_link = rad_stations[0][0];
 var is_play = false;
 var g_text_color = '#ffffff';
